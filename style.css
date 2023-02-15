@@ -13,7 +13,9 @@ body {
     width: 100%;
     text-align: center;
     background-color: rgb(255, 145, 0);
+    color: rgb(3, 0, 170);
   }
   img { 
-    margin: 0 calc(50%-102px);
+    margin: 0 calc(50% - 102px);
   }
+  
