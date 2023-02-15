@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(0, 0, 0);
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(255, 145, 0);
+  }
+  img { margin:auto;
+
+  }
